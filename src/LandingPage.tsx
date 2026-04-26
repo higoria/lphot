@@ -50,7 +50,7 @@ export default function LandingPage() {
               <EyeOff className="w-5 h-5 text-[#ff007f]" />
             </div>
             <div>
-              <h3 className="font-bold text-white text-lg">Acesso Secreto</h3>
+              <h3 className="font-bold text-white text-lg">Lado B Revelado</h3>
               <p className="text-gray-400 text-sm">O que eu só tenho coragem de mandar no privado.</p>
             </div>
           </div>
@@ -70,7 +70,7 @@ export default function LandingPage() {
               <Smartphone className="w-5 h-5 text-[#ff007f]" />
             </div>
             <div>
-              <h3 className="font-bold text-white text-lg">Direto na Fonte</h3>
+              <h3 className="font-bold text-white text-lg">Conex�o VIP</h3>
               <p className="text-gray-400 text-sm">Receba tudo em primeira mão, sem depender de algoritmos.</p>
             </div>
           </div>
@@ -80,7 +80,7 @@ export default function LandingPage() {
               <Timer className="w-5 h-5 text-[#ff007f]" />
             </div>
             <div>
-              <h3 className="font-bold text-white text-lg">Vagas Limitadas</h3>
+              <h3 className="font-bold text-white text-lg">Acesso Exclusivo</h3>
               <p className="text-gray-400 text-sm">Eu não deixo as portas abertas por muito tempo.</p>
             </div>
           </div>
