@@ -88,7 +88,7 @@ export default function LandingPage() {
 
         {/* CTA Button */}
         <a 
-          href="https://t.me/valentina_privado_bot" 
+          href="https://t.me/esterjob_bot" 
           target="_blank" 
           rel="noopener noreferrer"
           className="group relative w-full flex items-center justify-center gap-2 bg-[#ff007f] hover:bg-[#e60073] text-white text-lg font-bold py-5 px-8 rounded-xl transition-all duration-300 transform hover:scale-[1.02] active:scale-95 animate-pulse-glow"
